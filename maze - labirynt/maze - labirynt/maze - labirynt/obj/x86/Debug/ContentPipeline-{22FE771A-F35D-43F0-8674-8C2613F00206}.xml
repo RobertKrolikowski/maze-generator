@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{22FE771A-F35D-43F0-8674-8C2613F00206}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Programowanie\C#\XNA\maze - labirynt\maze - labirynt\maze - labiryntContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Programowanie\C#\XNA\maze - labirynt\maze - labirynt\maze - labirynt\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Programowanie\C#\XNA\maze - labirynt\maze - labirynt\maze - labirynt\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Programowanie\C#\XNA\maze - labirynt\maze - labirynt\maze - labirynt\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-10-31T19:46:32.0595141+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
